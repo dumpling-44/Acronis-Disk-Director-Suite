@@ -208,4 +208,4 @@ This repository serves as the official landing page for Acronis Disk Director Su
 **Get the most recent version of Acronis Disk Director Suite today!**
 
 ---
-**Last updated:** 2026-11-08 20:58:57 UTC
+**Last updated:** 2026-11-09 00:44:57 UTC
